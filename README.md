@@ -30,9 +30,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The variables significant in predicting the price of a house are -
-|------------------------|---------------------------------------------------|
-|RoofMatl_CompShg        |Roof Material is "Standard (Composite) Shingle"    |
+The variables significant in predicting the price of a house are -
+1. RoofMatl_CompShg        |Roof Material is "Standard (Composite) Shingle"
 2. RoofMatl_Tar&Grv     --> Roof Material is "Gravel & Tar"
 3. GrLivArea            --> Above grade (ground) living area square feet
 4. RoofMatl_WdShngl     --> Roof Material is "Wood Shingles"
